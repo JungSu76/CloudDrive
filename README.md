@@ -24,18 +24,21 @@ Language: Chinese
 
 [Hobbies]
 AutoChess/MOBA/Video/TCG/RPG games, etc.
+
 Musics/Novels/Televisions/Films, etc.
 In-person TTRPG/Miniature Wargame, etc.
 
 
 [Educational background]
-Undergraduate: Bachelor of Architecture
 Graduate student: Master of Science
 
+Undergraduate: Bachelor of Architecture
+
 [Professional experience]
-2020-21: Architectural Design Assistant
-2021-24: Digital R&D Engineer
 2024-: Individual Trader
+
+2021-24: Digital R&D Engineer
+2020-21: Architectural Design Assistant
 
 [Personal financial account]
 TradingView
