@@ -3,7 +3,7 @@ Application
 Place of work: Shanghai
 
 Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)
-\
+  
 
 [Personal information]
 Name: 刘大用/DAYONG LIU
@@ -20,24 +20,24 @@ Political identity: The masses
 Religious belief: None
 Philosophical Concept: Eternista
 Constellation: Cancer
-Language: Chinese\
+Language: Chinese
 
 [Hobbies]
 AutoChess/MOBA/Video/TCG/RPG games, etc.
 Musics/Novels/Televisions/Films, etc.
 In-person TTRPG/Miniature Wargame, etc.
-\
+  
 
 [Educational background]
 Graduate student: Master of Science
 
-Undergraduate: Bachelor of Architecture\
+Undergraduate: Bachelor of Architecture
 
 [Professional experience]
 2024-: Individual Trader
 
 2021-24: Digital R&D Engineer
-2020-21: Architectural Design Assistant\
+2020-21: Architectural Design Assistant
 
 [Personal financial account]
 TradingView
@@ -47,7 +47,7 @@ China Merchants Bank/China Galaxy Securities/Guosen Futures
 
 Offshore China: 
 CMB Wing Lung Bank/iFAST GB/Fiat24/IBKR/Kraken/Exness
-\
+  
 
 [Contact information]
 E-mail: 458174388@qq.com/jungsu76jp@gmail.com
