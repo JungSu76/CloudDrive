@@ -32,10 +32,8 @@ In-person TTRPG/Miniature Wargame, etc.
 [Educational background]
 Graduate student: Master of Science
 
-
 [Professional experience]
 2024-Present: Individual Trader With Own Money
-
 
 [Personal financial account]
 TradingView
@@ -57,11 +55,11 @@ QQMusic: 流上川
 QQVideo: 流上川
 QQ ID: 458174388
 王者万象棋 ID: 68060076
-
 Weibo ID: 流上川JS76
 Douyin ID: 60425918123
 Rednote ID: 49227113515
 Douyu UID: 1031005198
+
 X ID: @JungSuns76
 Github ID: JungSu76
 OnlyFans ID: @jungsu76
