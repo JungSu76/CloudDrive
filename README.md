@@ -51,8 +51,8 @@ CMB Wing Lung Bank/iFAST GB/Fiat24/IBKR/Kraken/Exness
 [Contact information]
 E-mail: 458174388@qq.com/jungsu76jp@gmail.com
 
-Steam URL: https://steamcommunity.com/id/jungsu76/
 LinkedIn: 刘大用(流上川)
+Steam URL: https://steamcommunity.com/id/jungsu76/
 
 QQMusic: 流上川
 QQVideo: 流上川
