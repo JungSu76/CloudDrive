@@ -1,8 +1,8 @@
 Application
 [Application direction]
-Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)
-
 Place of work: Shanghai
+
+Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)
 
 
 [Personal information]
@@ -48,8 +48,9 @@ CMB Wing Lung Bank/iFAST GB/Fiat24/IBKR/Kraken/Exness
 
 
 [Contact information]
-LinkedIn: 刘大用(流上川)
 E-mail: 458174388@qq.com/jungsu76jp@gmail.com
+
+LinkedIn: 刘大用(流上川)
 
 QQMusic: 流上川
 QQVideo: 流上川
