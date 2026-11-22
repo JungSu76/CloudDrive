@@ -30,6 +30,7 @@ In-person TTRPG/Miniature Wargame, etc.
 
 [Educational background]
 Graduate student: Master of Science
+
 Undergraduate: Bachelor of Architecture
 
 [Professional experience]
