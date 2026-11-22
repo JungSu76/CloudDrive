@@ -3,7 +3,7 @@ Application
 Place of work: Shanghai
 
 Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)
-
+/n
 
 [Personal information]
 Name: 刘大用/DAYONG LIU
