@@ -4,7 +4,6 @@ Place of work: Shanghai
 
 Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)\
 
-  
 
 [Personal information]
 Name: 刘大用/DAYONG LIU
@@ -32,13 +31,10 @@ In-person TTRPG/Miniature Wargame, etc.
 [Educational background]
 Graduate student: Master of Science
 
-Undergraduate: Bachelor of Architecture
 
 [Professional experience]
 2024-: Individual Trader
 
-2021-24: Digital R&D Engineer
-2020-21: Architectural Design Assistant
 
 [Personal financial account]
 TradingView
