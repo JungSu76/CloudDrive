@@ -27,7 +27,7 @@ Language: Chinese
 AutoChess/MOBA/Video/TCG/RPG games, etc.
 Musics/Novels/Televisions/Films, etc.
 In-person TTRPG/Miniature Wargame, etc.
-  
+
 
 [Educational background]
 Graduate student: Master of Science
