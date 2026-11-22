@@ -33,7 +33,7 @@ Graduate student: Master of Science
 
 
 [Professional experience]
-2024-Present: Individual Trader
+2024-Present: Individual Trader With Own Money
 
 
 [Personal financial account]
