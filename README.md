@@ -38,11 +38,9 @@ Graduate student: Master of Science
 [Personal financial account]
 TradingView
 
-Onshore China: 
-China Merchants Bank/China Galaxy Securities/Guosen Futures
+Onshore China: China Merchants Bank/China Galaxy Securities/Guosen Futures
 
-Offshore China: 
-CMB Wing Lung Bank/iFAST GB/Fiat24/IBKR/Kraken/Exness
+Offshore China: CMB Wing Lung Bank/iFAST GB/Fiat24/IBKR/Kraken/Exness
 
 
 [Contact information]
