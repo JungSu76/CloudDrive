@@ -2,7 +2,7 @@ Application
 [Application direction]
 Place of work: Shanghai
 
-Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)\
+Unique Male Coach for Female Independent Trader’s Training (single humanoid beautiful woman‌/own capital/medium-long-term trend trading)
 
 
 [Personal information]
