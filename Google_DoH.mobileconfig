@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://dns.google/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>配置Google DoH</string>
+			<key>PayloadDisplayName</key>
+			<string>Google DoH</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.google</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1B2C3D4-E5F6-4789-A012-3456789ABCDE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Google 全局加密 DNS (纯净无界版)</string>
+	<key>PayloadDisplayName</key>
+	<string>Google Encrypted DNS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.google.doh.profile</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F1E2D3C4-B5A6-4987-9012-EDCBA9876543</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
